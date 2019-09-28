@@ -1186,8 +1186,6 @@ module Kernel
 
   def object_id(); end
 
-  def pp(*objs); end
-
   def respond_to?(*_); end
 
   def yield_self(); end

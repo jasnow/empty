@@ -603,7 +603,6 @@
 # wrong constant name gem
 # wrong constant name itself
 # wrong constant name object_id
-# wrong constant name pp
 # wrong constant name respond_to?
 # wrong constant name yield_self
 # wrong constant name key
